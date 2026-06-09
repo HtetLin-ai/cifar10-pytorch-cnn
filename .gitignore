@@ -1,5 +1,4 @@
 __pycache__/
 data/
-*.pth
 .env
-.DS_Store
+.DS_Storetest_image.jpg
